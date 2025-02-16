@@ -58,22 +58,6 @@ left: 50px;
                 margin: 0 20px;
                 font-size: 16px;
             }
-            .contacusbutton {
-position: relative;
-bottom: 280px;
-left: 190px;
-font-size: 30px;
-border-radius: 15px;
-font-family: Cascadia Code ;
-background: url(/imagesandvideos/bgg.gif);
-
-            }
-            .contacusbutton:hover {
-background-color: aqua;
-width: 150px;
-height: 100px;
-                
-                            }
                             .imghmtnavbar {
                                 position: relative;
                                 top: 2px;
